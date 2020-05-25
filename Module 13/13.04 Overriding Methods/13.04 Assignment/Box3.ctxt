@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Box3
+comment0.text=\r\n\ Box2\ demo.\r\n\ \r\n\ \u00A9FLVS\ 2007\r\n\ By\ Anika\ Jallipalli\r\n\ Date\:\ 2/3/2020\r\n
+comment1.params=l\ w\ h
+comment1.target=Box3(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ box\r\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=box
+comment4.target=boolean\ equals(Box3)
+numComments=5

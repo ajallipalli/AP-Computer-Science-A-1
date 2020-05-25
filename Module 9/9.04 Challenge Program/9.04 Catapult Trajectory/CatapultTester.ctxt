@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CatapultTester
+comment0.text=\r\n\ Project\ title\:\ 09.04\ Challenge\ Program\r\n\r\n\ Purpose\ of\ Project\:\ Calculates\ the\ trajectory\ of\ a\ projectile\ based\ on\ launch\ angles\ and\ launch\ velocities.\r\n\r\n\ @version\ 12/12/2019\r\n\r\n\ @author\ Anika\ Jallipalli\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CO2FootprintTester
+comment0.text=\r\n\ Project\ title\:\ 08.12\ Challenge\ Program\r\n\r\n\ Purpose\ of\ Project\:\ Calculate\ the\ C02\ output\ by\ the\ number\ of\ gas\ used.\r\n\r\n\ @version\ 12/8/2019\r\n\r\n\ @author\ Anika\ Jallipalli\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CandyMachine
+comment0.text=\r\n\ By\ Anika\ Jallipalli\r\n\ Date\:\ 4/24/2020\r\n\ Purpose\:\ Use\ assertions\ and\ exceptions\ to\ create\ a\ candy\ machine\r\n\ \r\n\ PMR\ in\ README.txt\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dispenser\ cashRegister\ amount
+comment2.target=void\ sellProduct(Dispenser,\ CashRegister,\ int)
+numComments=3

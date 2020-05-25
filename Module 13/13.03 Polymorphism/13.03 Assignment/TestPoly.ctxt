@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestPoly
+comment0.text=\r\n\ Prints\ the\ centers\ of\ all\ of\ the\ shapes\ polymorphically.\r\n\ \r\n\ @author\ Bijan\ Tajmir\r\n\ @version\ 3/2/2015\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=c
+comment2.target=void\ showCenter(Circle)
+numComments=3

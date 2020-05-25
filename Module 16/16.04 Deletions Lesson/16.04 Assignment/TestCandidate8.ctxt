@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestCandidate8
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list\ location\ name\ votes
+comment2.target=void\ insertPosition(java.util.List,\ int,\ java.lang.String,\ int)
+comment3.params=list\ find\ name\ votes
+comment3.target=void\ insertCandidate(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=list\ location
+comment4.target=void\ deleteByLoc(java.util.List,\ int)
+comment5.params=list\ find
+comment5.target=void\ deleteByName(java.util.List,\ java.lang.String)
+numComments=6

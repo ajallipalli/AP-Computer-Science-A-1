@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CashRegister
+comment0.text=\r\n\ By\ Cole\ Hudson\r\n\ Date\:\ 4/26/2015\r\n\ Purpose\:\ Use\ assertions\ and\ exceptions\ to\ create\ a\ candy\ machine\r\n\ \r\n\ PMR\ in\ README.txt\r\n
+comment1.params=
+comment1.target=int\ getCashOnHand()
+comment2.params=
+comment2.target=CashRegister()
+comment3.params=cashOnHand
+comment3.target=CashRegister(int)
+comment4.params=cashOnHand
+comment4.target=void\ setCashOnHand(int)
+comment5.params=amount
+comment5.target=void\ acceptAmount(int)
+numComments=6

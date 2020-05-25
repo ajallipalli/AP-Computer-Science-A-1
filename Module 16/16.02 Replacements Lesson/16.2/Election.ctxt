@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Election
+comment0.text=\r\n\ An\ election,\ which\ is\ simply\ a\ list\ of\ candidates.\r\n\r\n\ @author\ Anika\ Jallipalli\r\n\ @version\ 3/12/2020\r\n
+comment1.params=
+comment1.target=Election()
+comment1.text=\r\n\ Creates\ an\ empty\ election.\r\n
+comment2.params=e
+comment2.target=Election(Election)
+comment2.text=\r\n\ Creates\ a\ deep\ copy\ of\ the\ given\ election.\r\n\r\n\ @param\ e\ an\ election\r\n
+comment3.params=n
+comment3.target=void\ addVote(java.lang.String)
+comment3.text=\r\n\ Adds\ one\ vote\ for\ the\ given\ candidate.\ \ If\ the\ candidate\ isn't\ already\r\n\ in\ this\ election\ then\ it\ is\ added.\r\n\r\n\ @param\ n\ the\ name\ of\ a\ candidate\r\n
+comment4.params=
+comment4.target=java.lang.String\ findWinner()
+comment4.text=\r\n\ Returns\ the\ name\ of\ the\ candidate\ with\ the\ most\ votes.\ \ Ties\ are\ broken\r\n\ arbitrarily.\r\n\r\n\ @return\ the\ name\ of\ the\ candidate\ with\ the\ most\ votes\r\n
+comment5.params=
+comment5.target=java.util.List\ findWinners()
+comment5.text=\r\n\ Returns\ a\ list\ of\ the\ names\ of\ the\ candidate\ with\ the\ most\ votes.\r\n\ arbitrarily.\r\n\r\n\ @return\ the\ list\ of\ names\ of\ the\ candidates\ with\ the\ most\ votes\r\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyScience
+comment0.text=\r\n\ By\ Cole\ Hudson\r\n\ Date\:\ 3/15/2015\r\n\ Purpose\:\ mirror\ your\ homework\ and\ then\ to\ create\ instances\ for\ different\ subject\ matter\r\n\ \r\n\ PMR\ in\ README.txt\r\n
+comment1.params=
+comment1.target=MyScience()
+comment2.params=p
+comment2.target=void\ createAssignment(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

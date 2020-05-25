@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyScience3
+comment0.text=\r\n\ By\ Anika\ Jallipalli\r\n\ Date\:\ 3/1/2020\r\n\ Purpose\:\ implement\ the\ Comparable<T>\ interface\r\n\ \r\n\ PMR\ in\ README.txt\r\n
+comment1.params=
+comment1.target=MyScience3()
+comment2.params=p
+comment2.target=void\ createAssignment(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ doReading()
+numComments=5

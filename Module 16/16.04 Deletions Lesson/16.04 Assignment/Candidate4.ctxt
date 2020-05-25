@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Candidate4
+comment0.text=\r\n\ Candidate\ interface.\r\n\ \r\n\ @author\ Anika\ Jallipalli\r\n\ @version\ 4/5/2020\r\n
+comment1.params=name\ numVotes
+comment1.target=Candidate4(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getVotes()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=n
+comment5.target=void\ replaceName(java.lang.String)
+comment6.params=v
+comment6.target=void\ replaceVotes(int)
+numComments=7

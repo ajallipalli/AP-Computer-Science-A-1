@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FibonacciNumbers
+comment1.params=n
+comment1.target=int\ fibonacci(int)
+comment1.text=\r\n\ \r\n\ @param\ n\ is\ the\ number\ that\ was\ inputted\r\n\ @return\ Fibonacci\ value\ of\ number\ input\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Run\ Method\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ Method\r\n\ @param\ args\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Movie2
+comment0.text=\r\n\ Movie\ Interface\r\n\ \r\n\ @author\ Anika\ Jallipalli\r\n\ @version\ 4/11/2020\r\n
+comment1.params=title\ year\ studio
+comment1.target=Movie2(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=int\ getYear()
+comment5.params=
+comment5.target=java.lang.String\ getStudio()
+numComments=6

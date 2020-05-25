@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Split
+comment0.text=\r\n\ Code\ and\ test\ for\ method\ to\ split\ a\ list\ in\ half.\r\n\r\n\ @author\ Jim\ Glenn\r\n\ @version\ 0.1\ 2012-02-22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=l
+comment2.target=java.util.List\ split(java.util.List)
+comment2.text=\r\n\ Removes\ the\ last\ half\ of\ the\ given\ list\ and\ returns\ the\ removed\r\n\ elements\ on\ a\ new\ list.\ \ The\ returned\ list\ will\ have\ the\r\n\ removed\ elements\ in\ the\ same\ order\ that\ they\ appeared\ in\ the\r\n\ original\ list.\ \ If\ the\ original\ list\ has\ an\ odd\ number\r\n\ of\ elements\ then\ it\ will\ retain\ one\ more\ element\ than\ is\ removed.\r\n\r\n\ @param\ l\ a\ list\r\n\ @return\ the\ last\ half\ of\ l\r\n
+numComments=3

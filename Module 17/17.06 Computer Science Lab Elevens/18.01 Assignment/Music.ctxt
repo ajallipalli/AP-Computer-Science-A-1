@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Music
+comment0.text=\r\n\ Music\ interface\ \r\n\ \r\n\ \r\n\ author\ Anika\ Jallipalli\ \r\n\ \r\n
+comment1.params=t\ l\ p
+comment1.target=Music(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Music\r\n
+comment2.params=t
+comment2.target=void\ settitle(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ gettitle()
+comment4.params=l
+comment4.target=void\ setyear(int)
+comment5.params=
+comment5.target=int\ getyear()
+comment6.params=p
+comment6.target=void\ setsinger(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getsinger()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

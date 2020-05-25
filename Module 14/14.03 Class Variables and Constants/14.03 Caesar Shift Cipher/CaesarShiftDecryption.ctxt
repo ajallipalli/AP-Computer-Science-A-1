@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CaesarShiftDecryption
+comment1.params=
+comment1.target=void\ setupAlphabet()
+comment2.params=s\ m
+comment2.target=CaesarShiftDecryption(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ decryptMessage()
+comment4.params=
+comment4.target=int\ getShift()
+comment5.params=
+comment5.target=void\ printDecryptedMessage()
+numComments=6

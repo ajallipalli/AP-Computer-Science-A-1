@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2
+comment0.text=\r\n\ Project\ title\:\ 08.09\ Javadocs\r\n\r\n\ Purpose\ of\ Project\:\ Calculate\ the\ C02\ output\ by\ the\ number\ of\ gas\ used.\r\n\r\n\ @version\ 12/1/2019\r\n\r\n\ @author\ Anika\ Jallipalli\r\n\r\n\ ***********\ PMR\ ***********\r\n\ (+)\ Understood\ OOP\ more.\r\n\r\n\ (-)\ Need\ more\ practice\ with\ OOP.\r\n\ ***************************\r\n\r\n\ In\ the\ future\:\ Practice.\r\n
+comment1.params=gallons
+comment1.target=CO2FootprintV2(double)
+comment1.text=\r\n\ \ \ \ Constructor\ for\ C02FootPrint.\r\n\ \ \ \ @param\ gals\ \=\ gallons\ used\r\n
+comment2.params=
+comment2.target=void\ calcTonsCO2()
+comment3.params=
+comment3.target=void\ convertTonsToPounds()
+comment3.text=\r\n\ \ \ \ Method\ to\ get\ Pounds\ of\ C02\r\n\ \ \ \ @return\ double\ of\ the\ myPoundsC02\r\n
+comment4.params=
+comment4.target=double\ getGallons()
+comment4.text=\r\n\ \ \ \ Method\ to\ get\ Tons\ of\ C02\r\n\ \ \ \ @return\ double\ of\ myTonsC02;\r\n
+comment5.params=
+comment5.target=double\ getTonsCO2()
+comment5.text=\r\n\ \ \ \ Method\ to\ calculate\ tons\ of\ C02\ emitted\r\n\ \ \ \ myTonsC02\ multiplied\ by\ the\ gallons\ used\ and\ the\ formula\ to\ calculate\r\n
+comment6.params=
+comment6.target=double\ getPoundsCO2()
+comment6.text=\r\n\ \ \ \ Method\ to\ convert\ Tons\ to\ Pounds\r\n\ \ \ \ myPoundsC02\ is\ equal\ to\ Tons\ multiplied\ by\ 2204.6\ (Amount\ of\ pounds\ in\ a\ ton)\r\n
+numComments=7

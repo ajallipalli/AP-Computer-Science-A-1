@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PrimeAlgorithm
+comment0.text=\r\n\ \r\n\ @author\ Anika\ Jallipalli\r\n\ @date\ 2/18/2020\r\n
+comment1.params=uL
+comment1.target=PrimeAlgorithm(int)
+comment2.params=
+comment2.target=int\ getUpperLimit()
+comment3.params=n
+comment3.target=boolean\ prime(int)
+comment4.params=
+comment4.target=void\ printNumbersAndCalcForPrime()
+numComments=5

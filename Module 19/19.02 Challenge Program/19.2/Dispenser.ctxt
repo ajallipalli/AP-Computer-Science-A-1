@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Dispenser
+comment0.text=\r\n\ By\ Anika\ Jallipalli\r\n\ Date\:\ 4/24/2020\r\n\ Purpose\:\ Use\ assertions\ and\ exceptions\ to\ create\ a\ candy\ machine\r\n\ \r\n\ PMR\ in\ README.txt\r\n
+comment1.params=
+comment1.target=int\ getCount()
+comment2.params=
+comment2.target=int\ getProductionCost()
+comment3.params=numberOfItems
+comment3.target=void\ setNumberOfItem(int)
+comment4.params=cost
+comment4.target=void\ setCost(int)
+comment5.params=
+comment5.target=Dispenser()
+comment6.params=numberOfItems\ cost
+comment6.target=Dispenser(int,\ int)
+comment7.params=
+comment7.target=void\ makeSale()
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArraysX1Practice
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ r
+comment2.target=int\ countMatchingRows(java.lang.String[][],\ int)
+comment2.text=\r\n\ Problem\ 8\r\n\ Counts\ the\ number\ of\ rows\ in\ the\ given\ array\ that\ have\ the\ same\r\n\ contents\ as\ the\ given\ row\ in\ the\ same\ order.\ \ The\ given\ row\ does\r\n\ not\ count\ as\ a\ match\ of\ itself.\r\n\r\n\ @param\ arr\ an\ array\ of\ strings\r\n\ @param\ r\ the\ index\ of\ a\ row\ in\ that\ array\r\n
+comment3.params=arr\ r\ r2
+comment3.target=boolean\ rowsMatch(java.lang.String[][],\ int,\ int)
+comment3.text=\r\n\ Determines\ if\ the\ given\ rows\ in\ the\ given\ array\ have\ the\ same\ contents\r\n\ in\ the\ same\ order.\r\n\r\n\ @param\ arr\ an\ array\ of\ strings\r\n\ @param\ r\ the\ index\ of\ a\ row\ in\ that\ array\r\n\ @param\ r2\ the\ index\ of\ a\ row\ in\ that\ arrau\r\n\ @return\ true\ if\ and\ only\ if\ rows\ r\ and\ r2\ have\ the\ same\r\n\ contents\ in\ the\ same\ order\r\n
+numComments=4
